@@ -12,12 +12,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/maryam-moeed-752631247"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:maryammoeed68@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <!-- PORTFOLIO-BADGE: added once the Vercel site is live -->
+  <a href="https://port-kappa-liard.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=maryammoeed&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <img src="./assets/street-walk.svg" width="100%" alt="Animated pastel street: I walk past a café, office, workshop, lab and post office, and each one opens a part of my story. Click to walk through it yourself."/>
+  <a href="https://port-kappa-liard.vercel.app/">
+    <img src="./assets/street-walk.svg" width="100%" alt="Animated pastel street: I walk past a café, office, workshop, lab and post office, and each one opens a part of my story. Click to walk through it yourself."/>
+  </a>
 </p>
 
 ---
