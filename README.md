@@ -38,8 +38,6 @@ Building agents in production showed me that real work is rarely fully automated
 - **How can that handover be designed so people stay aware of, and in control of, what the system is doing?**
 - **Can ideas from adaptive and mixed-initiative interfaces help agents adjust their autonomy to the user and the situation?**
 
-I'm planning a research-based Master's in **human–AI interaction and reliable agentic systems**.
-
 ### ⚙️ What I build
 
 <p align="center">
