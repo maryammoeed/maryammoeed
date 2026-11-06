@@ -5,21 +5,19 @@
 
 <p align="center">
   <a href="https://github.com/maryammoeed">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=DB2777&center=true&vCenter=true&width=720&lines=I+build+agents+that+check+each+other's+work.;Multi-agent+LLM+pipelines+for+UK+tax+advisory.;Human-in-the-loop+%C2%B7+guardrails+%C2%B7+evaluation.;Federated+learning+for+rare+disease+research." alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=DB2777&center=true&vCenter=true&width=720&lines=AI+Engineer+building+multi-agent+LLM+systems.;Guardrails+%C2%B7+evaluation+%C2%B7+retrieval.;Human-in-the-loop+oversight+for+agentic+AI.;Federated+learning+for+rare+disease+research." alt="Typing intro"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maryam-moeed-752631247"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:maryammoeed68@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <!-- PORTFOLIO-BADGE: added once the Vercel site is live -->
   <img src="https://komarev.com/ghpvc/?username=maryammoeed&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <a href="YOUR-PORTFOLIO-URL">
-    <img src="./assets/street-walk.svg" width="100%" alt="Animated pastel street: I walk past a café, office, workshop, lab and post office, and each one opens a part of my story. Click to walk through it yourself."/>
-  </a>
+  <img src="./assets/street-walk.svg" width="100%" alt="Animated pastel street: I walk past a café, office, workshop, lab and post office, and each one opens a part of my story. Click to walk through it yourself."/>
 </p>
 
 ---
@@ -28,7 +26,7 @@
 
 ```python
 class Maryam:
-    role        = "AI Engineer @ 10Pearls — multi-agent systems for a UK tax advisory client"
+    role        = "AI Engineer @ 10Pearls — multi-agent LLM systems in production"
     based_in    = "Islamabad, Pakistan"
     building    = ["multi-agent LLM pipelines", "guardrails & validation layers",
                    "human-in-the-loop review", "LLM evaluation & observability"]
@@ -47,7 +45,7 @@ class Maryam:
   <img src="./assets/agent-pipeline.svg" width="100%" alt="Animated pipeline: input → platform kickoff form → Python use case (files embedded into a knowledge base) → input guardrails → agents with retrieval → evaluator agent (fail → retry, max 3) → output guardrails → validated response; results return to the platform via Azure Service Bus, with Application Insights monitoring every stage"/>
 </p>
 
-Two years shipping production agent systems for UK tax advisory, where outputs have to be **correct, compliant and explainable**:
+Two years shipping production agent systems in a regulated domain, where outputs have to be **correct, compliant and explainable**:
 
 - **Platform ↔ use case** — users start a run through a kickoff form on the platform; a Python use-case service picks it up and orchestrates the agents, sending status and results back to the platform over **Azure Service Bus**
 - **Retrieval** — uploaded files are embedded into a knowledge base so agents can answer questions from the client's own documents
@@ -108,7 +106,7 @@ Final-year research: PCA + LDA + Maximum Margin Criterion on CMU MoCap sequences
 
 | When | Role | Where |
 |---|---|---|
-| Aug 2025 – now | **AI Engineer** — multi-agent LLM systems for a UK tax advisory client | 10Pearls |
+| Aug 2025 – now | **AI Engineer** — production multi-agent LLM systems | 10Pearls |
 | Aug 2025 – May 2026 | **Project Supervisor** — federated learning + blockchain for rare disease research | GIKI |
 | Jun – Sep 2025 | **AI / Data Science Mentor** | Code for Pakistan |
 | Aug 2024 – Jul 2025 | **Associate AI Engineer** — 4+ production LLM systems, team-wide Langfuse evaluation practice | 10Pearls |
