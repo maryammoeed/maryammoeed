@@ -24,22 +24,21 @@
 
 ---
 
-### 🧠 About me
+### 🌸 About me
 
-```python
-class Maryam:
-    role        = "AI Engineer @ 10Pearls — multi-agent LLM systems in production"
-    based_in    = "Islamabad, Pakistan"
-    building    = ["multi-agent LLM pipelines", "guardrails & validation layers",
-                   "human-in-the-loop review", "LLM evaluation & observability"]
-    supervising = "GIKI undergrad team — federated learning + blockchain for rare disease research"
-    researching = ["multi-agent coordination", "reliability & safety of agentic AI",
-                   "human oversight of autonomous pipelines", "privacy-preserving ML for healthcare"]
-    education   = "BS Computer Science, FAST-NUCES — Dean's List (Fall 2023)"
+I'm an AI Engineer at **10Pearls** in Islamabad, building multi-agent LLM systems that run in production, with guardrails, evaluation loops and human checkpoints so their outputs can be trusted. I also supervise an undergraduate research team at **GIKI** working on federated learning and blockchain for rare disease research. I have a BS in Computer Science from **FAST-NUCES** (Dean's List, Fall 2023).
 
-    def current_question(self):
-        return "Where should a human step into a long agent chain — and how do we know the agents got it right?"
-```
+### 🔍 What I want to research
+
+> **How should an AI system decide how much autonomy to take?**
+
+Building agents in production showed me that real work is rarely fully automated or fully human-directed. It sits somewhere in between. I'm interested in the interaction layer around agentic systems:
+
+- **When should an agent proceed on its own, and when should it ask the user?**
+- **How can that handover be designed so people stay aware of, and in control of, what the system is doing?**
+- **Can ideas from adaptive and mixed-initiative interfaces help agents adjust their autonomy to the user and the situation?**
+
+I'm planning a research-based Master's in **human–AI interaction and reliable agentic systems**.
 
 ### ⚙️ What I build
 
