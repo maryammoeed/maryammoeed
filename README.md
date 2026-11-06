@@ -26,7 +26,7 @@
 
 ### 🌸 About me
 
-I'm an AI Engineer at **10Pearls** in Islamabad, building multi-agent LLM systems that run in production, with guardrails, evaluation loops and human checkpoints so their outputs can be trusted. I also supervise an undergraduate research team at **GIKI** working on federated learning and blockchain for rare disease research. I have a BS in Computer Science from **FAST-NUCES** (Dean's List, Fall 2023).
+I'm an AI Engineer at **10Pearls** in Islamabad, building multi-agent LLM systems that run in production, with guardrails, evaluation loops and human checkpoints so their outputs can be trusted. I also supervised an undergraduate research team at **GIKI** working on federated learning and blockchain for rare disease research. I have a BS in Computer Science from **FAST-NUCES** (Dean's List, Fall 2023).
 
 ### 🔍 What I want to research
 
